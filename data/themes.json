@@ -1,0 +1,31 @@
+{
+  "name": "themes",
+  "children": [
+    {
+      "name": "Packer",
+      "children": [
+        {
+          "name": "A",
+          "children": [
+            {
+              "name": "Foo",
+              "value": 50
+            },
+            {
+              "name": "Bar",
+              "value": 50
+            },
+            {
+              "name": "Bax",
+              "value": 50
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "value": 50
+        }
+      ]
+    }
+  ]
+}
